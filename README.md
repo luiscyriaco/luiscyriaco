@@ -1,11 +1,15 @@
 # 👩🏻‍💻 Luis Cyriaco
 
-**`Desenvolvedora FullStack`**
+**`Professor de Tecnologia`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Luis Ricardo Cristoffoli Cyriaco, tenho 41 anos e sou natural de São Paulo. Sou Intrutor de Tecnologia pelo SENAI Jandira, estudande de Segurança da Informação pela FATEC de Santana de Parnaíba. E sou tecnico de Infra Estrutura a mais de 20 anos, atuando desde montagens básicas até montagem de ambientes virtuais em Data Center como a Equinix.
+
+Atualmente em atendimento na escola 5.0 em Itapevi uma pareria do [Instituto Eurofarma](https://www.institutoeurofarma.org.br/)/ [SENAI](https://sp.senai.br/unidade/jandira/)/ [Prefeitura de Itapevi](https://itapevi.sp.gov.br/). Capacitando jovens entre 14 e 18 anos para o mercado de trabalho. Apresentando as diversas ferramentas usadas no dia a dia de um profissional nos diversos setores de qualquer empresa que faça o uso de tecnologias. Capacitação, prática e encaminhamento para Jovens Aprendizes para seu primeiro passo no mercado.
+
+Também em atendimento a 1ª Fábrica de Programadores do Brasil situada em Santana de Parnaíba, capacitando jovens desenvolvedores com 17 anos. A estarem preparados para a crescente demanda de desenvolvedores que o mercado tem buscado. Do Python Básico ao Avançado onde os alunos do 3º ano do Ensino Médio, já se formam do ensino médio com conceitos profundos de desenvolvimento.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://www.instagram.com/beontechnology_/">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 

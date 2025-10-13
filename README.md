@@ -22,7 +22,7 @@ Em breve, mais informações...
     />
   </a>
     <p align="left">
-  <a href="https://www.facebook.com/beontechnology">
+  <a href="https://www.facebook.com/luisricardo.cristoffolicyriaco/">
     <img 
       alt="Facebook" 
       title="Siga no Facebook" 

@@ -21,7 +21,6 @@ Em breve, mais informações...
       src="https://custom-icon-badges.demolab.com/badge/Instagram-689%20-%23F06292?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E1306C"
     />
   </a>
-    <p align="left">
   <a href="https://www.facebook.com/luisricardo.cristoffolicyriaco/">
     <img 
       alt="Facebook" 
@@ -29,20 +28,15 @@ Em breve, mais informações...
       src="https://custom-icon-badges.demolab.com/badge/Facebook-1.195%20-%23236ad3?logo=facebook&logoColor=white&style=for-the-badge&labelColor=4267B2"
     />
   </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=1155ba&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://wa.me/5511937533392" target="_blank">
+    <img 
+      alt="WhatsApp" 
+      title="Fale conosco no WhatsApp" 
+      src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contato-%2325D366?logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=25D366"
+    />
+  </a>
+</p>
+
 </p>
 
 ---

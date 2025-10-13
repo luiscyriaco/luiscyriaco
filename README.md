@@ -32,7 +32,7 @@ Em breve, mais informações...
     <img 
       alt="WhatsApp" 
       title="Fale conosco no WhatsApp" 
-      src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contato-%23FF6F61?logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=128C7E"
+      src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contato-%23A8D5BA?logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=128C7E"
     />
   </a>
 </p>

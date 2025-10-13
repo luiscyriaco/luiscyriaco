@@ -35,7 +35,7 @@ Em breve, mais informações...
       src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contato-%2315A292?logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=128C7E"
     />
   </a>
-  <a href="https://www.linkedin.com/in/luiscyriaco/" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-ricardo-cristoffoli-cyriaco/" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 

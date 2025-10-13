@@ -39,7 +39,7 @@ Em breve, mais informações...
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte--me-%231685F3?logo=linkedin-brands-solid-full&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte--se-%231685F3?logo=linkedin-brands-solid-full&logoColor=white&style=for-the-badge&labelColor=0A66C2"
     />
   </a>
 </p>

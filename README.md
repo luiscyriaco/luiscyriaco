@@ -4,7 +4,7 @@
 
 Me chamo Luis Ricardo Cristoffoli Cyriaco, tenho 41 anos e sou natural de São Paulo. Atuo como Instrutor de Tecnologia no SENAI Jandira, sou estudante de Segurança da Informação na FATEC Santana de Parnaíba e tenho mais de 20 anos de experiência como técnico em infraestrutura, passando desde montagens básicas até a implantação de ambientes virtuais em Data Centers como os da Equinix.
 
-Atualmente, estou em atendimento na Escola 5.0 de Itapevi, uma parceria entre o Instituto Eurofarma, o SENAI Jandira e a Prefeitura de Itapevi.
+Atualmente, estou em atendimento na Escola 5.0 de Itapevi, uma parceria entre o [Instituto Eurofarma](https://www.institutoeurofarma.org.br/)/ [SENAI](https://sp.senai.br/unidade/jandira/)/ [Prefeitura de Itapevi](https://itapevi.sp.gov.br/).
 
 Nesse projeto, capacito jovens entre 14 e 18 anos para o mercado de trabalho, apresentando as principais ferramentas utilizadas no dia a dia de empresas que atuam com tecnologia. O programa envolve capacitação teórica, prática e encaminhamento para vagas como Jovem Aprendiz, ajudando esses jovens a darem seu primeiro passo profissional.
 

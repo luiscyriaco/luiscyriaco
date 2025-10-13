@@ -18,7 +18,7 @@ Em breve, mais informações...
     <img 
       alt="Instagram" 
       title="Siga no Instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow%20me-%23FF7542?logo=instagram-brands-solid"
+      src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow%20me-%23E1306C?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E1306C"
     />
   </a>
     <a href="https://www.youtube.com/@larissakich">

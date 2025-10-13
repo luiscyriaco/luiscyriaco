@@ -21,13 +21,14 @@ Em breve, mais informações...
       src="https://custom-icon-badges.demolab.com/badge/Instagram-Sigua%20me-%23F06292?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E1306C"
     />
   </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+    <p align="left">
+  <a href="https://www.facebook.com/beontechnology">
+    <img 
+      alt="Facebook" 
+      title="Siga no Facebook" 
+      src="https://custom-icon-badges.demolab.com/badge/Facebook-Follow%20me-%234267B2?logo=facebook&logoColor=white&style=for-the-badge&labelColor=4267B2"
+    />
+  </a>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 

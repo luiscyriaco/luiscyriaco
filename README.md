@@ -18,7 +18,7 @@ Em breve, mais informações...
     <img 
       alt="Instagram" 
       title="Siga no Instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-Sigua%20me-%23F06292?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E1306C"
+      src="https://custom-icon-badges.demolab.com/badge/Instagram-689%20-%23F06292?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E1306C"
     />
   </a>
     <p align="left">
@@ -26,14 +26,14 @@ Em breve, mais informações...
     <img 
       alt="Facebook" 
       title="Siga no Facebook" 
-      src="https://custom-icon-badges.demolab.com/badge/Facebook-Follow%20me-%234267B2?logo=facebook&logoColor=white&style=for-the-badge&labelColor=4267B2"
+      src="https://custom-icon-badges.demolab.com/badge/Facebook-1.195%20-%23236ad3?logo=facebook&logoColor=white&style=for-the-badge&labelColor=4267B2"
     />
   </a>
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=1155ba&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">

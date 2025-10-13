@@ -32,7 +32,7 @@ Em breve, mais informações...
     <img 
       alt="WhatsApp" 
       title="Fale conosco no WhatsApp" 
-      src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contato-%23C8E6C9?logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=128C7E"
+      src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contato-%2315A292?logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=128C7E"
     />
   </a>
   <a href="https://www.linkedin.com/in/luiscyriaco/" target="_blank">

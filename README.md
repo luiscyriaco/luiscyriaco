@@ -2,13 +2,16 @@
 
 **`Instrutor de Tecnologia`**
 
-Me chamo Luis Ricardo Cristoffoli Cyriaco, tenho 41 anos e sou natural de São Paulo. Sou Intrutor de Tecnologia pelo SENAI Jandira, estudande de Segurança da Informação pela FATEC de Santana de Parnaíba. E sou tecnico de Infra Estrutura a mais de 20 anos, atuando desde montagens básicas até montagem de ambientes virtuais em Data Center como a Equinix.
+Me chamo Luis Ricardo Cristoffoli Cyriaco, tenho 41 anos e sou natural de São Paulo. Atuo como Instrutor de Tecnologia no SENAI Jandira, sou estudante de Segurança da Informação na FATEC Santana de Parnaíba e tenho mais de 20 anos de experiência como técnico em infraestrutura, passando desde montagens básicas até a implantação de ambientes virtuais em Data Centers como os da Equinix.
 
-Atualmente em atendimento na escola 5.0 em Itapevi uma pareria do [Instituto Eurofarma](https://www.institutoeurofarma.org.br/)/ [SENAI](https://sp.senai.br/unidade/jandira/)/ [Prefeitura de Itapevi](https://itapevi.sp.gov.br/). Capacitando jovens entre 14 e 18 anos para o mercado de trabalho. Apresentando as diversas ferramentas usadas no dia a dia de um profissional nos diversos setores de qualquer empresa que faça o uso de tecnologias. Capacitação, prática e encaminhamento para Jovens Aprendizes para seu primeiro passo no mercado.
+Atualmente, estou em atendimento na Escola 5.0 de Itapevi, uma parceria entre o Instituto Eurofarma, o SENAI Jandira e a Prefeitura de Itapevi.
 
-Também em atendimento a 1ª Fábrica de Programadores do Brasil situada em Santana de Parnaíba, capacitando jovens desenvolvedores com 17 anos. A estarem preparados para a crescente demanda de desenvolvedores que o mercado tem buscado. Do Python Básico ao Avançado onde os alunos do 3º ano do Ensino Médio, já se formam do ensino médio com conceitos profundos de desenvolvimento.
+Nesse projeto, capacito jovens entre 14 e 18 anos para o mercado de trabalho, apresentando as principais ferramentas utilizadas no dia a dia de empresas que atuam com tecnologia. O programa envolve capacitação teórica, prática e encaminhamento para vagas como Jovem Aprendiz, ajudando esses jovens a darem seu primeiro passo profissional.
 
-Sou proprietário da empresa de tecnologias Beon Technology que presta serviços de infraestrutura na região Oeste de São Paulo. Em breve mais informações...
+Também atuo como instrutor na 1ª Fábrica de Programadores do Brasil, em Santana de Parnaíba, onde formo jovens desenvolvedores de 17 anos. O foco é prepará-los para atender à crescente demanda do mercado de tecnologia. Ministramos desde Python básico ao avançado, com o objetivo de fazer com que os alunos saiam do ensino médio dominando conceitos profundos de desenvolvimento de software.
+
+Sou proprietário da BeOn Technology, empresa que presta serviços de infraestrutura de TI na região Oeste de São Paulo.
+Em breve, mais informações...
 
 <p align="left">
     <a href="https://www.instagram.com/beontechnology_/">
@@ -98,8 +101,6 @@ Sou proprietário da empresa de tecnologias Beon Technology que presta serviços
 <br/>
 
 ### 📊 Estatísticas
-
-### 📊 Estatísticas do GitHub
 
 | Estatísticas | Linguagens Mais Usadas |
 |--------------|-------------------------|

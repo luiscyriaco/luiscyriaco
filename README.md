@@ -14,13 +14,13 @@ Sou proprietário da BeOn Technology, empresa que presta serviços de infraestru
 Em breve, mais informações...
 
 <p align="left">
-    <a href="https://www.instagram.com/beontechnology_/">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+  <a href="https://www.instagram.com/beontechnology_/">
+    <img 
+      alt="Instagram" 
+      title="Siga no Instagram" 
+      src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow%20me-%23E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+    />
+  </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 

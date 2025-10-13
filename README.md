@@ -106,9 +106,8 @@ Sou proprietário da empresa de tecnologias Beon Technology que presta serviços
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luiscyriaco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-
   />
-
+</p>
 <img 
       align="left" 
       alt="GitHub Stats" 

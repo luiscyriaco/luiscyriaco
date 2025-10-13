@@ -32,13 +32,10 @@ Em breve, mais informações...
     <img 
       alt="WhatsApp" 
       title="Fale conosco no WhatsApp" 
-      src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contato-%2325D366?logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=25D366"
+      src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contato-%23FF6F61?logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=128C7E"
     />
   </a>
 </p>
-
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias

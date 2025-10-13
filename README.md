@@ -39,10 +39,11 @@ Em breve, mais informações...
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte-se-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte--me-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5"
     />
   </a>
 </p>
+
 
 
 ### 🤖 Linguagens e Tecnologias

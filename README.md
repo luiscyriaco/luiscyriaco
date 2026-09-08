@@ -107,6 +107,5 @@ Em breve, mais informações...
 |
 ### Olá, eu sou o Luis! 👋
 
-[![Estatísticas Numéricas](https://github-readme-stats.vercel.app/api?username=luiscyriaco&show_icons=true&theme=tokyonight&hide=prs&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/luiscyriaco)
-
-[![Gráfico de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscyriaco&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br)](https://github.com/luiscyriaco)
+[![Status do Perfil](https://img.shields.io/badge/GitHub-Perfil%20Ativo-blue?style=for-the-badge&logo=github)](https://github.com/luiscyriaco)
+[![Repositórios](https://img.shields.io/badge/Repositórios-16-success?style=for-the-badge&logo=git)](https://github.com/luiscyriaco?tab=repositories)

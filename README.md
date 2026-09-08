@@ -104,5 +104,8 @@ Em breve, mais informações...
 
 | Estatísticas | Linguagens Mais Usadas |
 |--------------|-------------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=luiscyriaco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" height="180"/>
+|<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luiscyriaco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscyriaco&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" height="180"/>
+</p>
 

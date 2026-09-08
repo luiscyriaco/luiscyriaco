@@ -13,24 +13,23 @@ Também atuo como instrutor na 1ª Fábrica de Programadores do Brasil, em Santa
 Sou proprietário da BeOn Technology, empresa que presta serviços de infraestrutura de TI na região Oeste de São Paulo.
 Em breve, mais informações...
 
-  
 <p align="center">
   <a href="https://instagram.com/beontechnology_">
-    <img src="https://img.shields.io/badge/INSTAGRAM-727-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-727-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://facebook.com/luisricardo.cristoffolicyriaco">
-    <img src="https://img.shields.io/badge/FACEBOOK-1.195-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1.195-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://wa.me/5511937533392">
-    <img src="https://img.shields.io/badge/WHATSAPP-CONTATO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="https://github.com/luiscyriaco?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITÓRIOS-16-success?style=for-the-badge&logo=git&logoColor=white" alt="Repositórios"/>
+    <img src="https://img.shields.io/badge/Repositórios-16-success?style=flat-square&logo=git&logoColor=white" alt="Repositórios"/>
   </a>
   <a href="https://github.com/luiscyriaco">
-    <img src="https://img.shields.io/badge/GITHUB-PERFIL_ATIVO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Perfil_Ativo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
+</p>  
 
 
 ### 🤖 Linguagens e Tecnologias

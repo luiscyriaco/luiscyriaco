@@ -92,17 +92,15 @@ Em breve, mais informações...
 |--------------|-------------------------|
 |
 
-# Olá, bem-vindo ao meu perfil! 👋
-
 <p align="center">
-  <!-- Cartão de Estatísticas Gerais -->
+  <!-- Cartão de Estatísticas Gerais (Servidor Alternativo) -->
   <img src="https://vercel.app" alt="Minhas Estatísticas" height="195" />
   
-  <!-- Cartão de Recordes e Sequência (Foguinho) -->
-  <img src="https://herokuapp.com" alt="Sequência de Commits" height="195" />
+  <!-- Cartão de Recordes e Sequência (Foguinho - Servidor Alternativo) -->
+  <img src="https://demolab.com" alt="Sequência de Commits" height="195" />
 </p>
 
 <p align="center">
-  <!-- Barra de Linguagens Mais Usadas -->
+  <!-- Barra de Linguagens (Servidor Alternativo) -->
   <img src="https://vercel.app" alt="Linguagens mais usadas" width="80%" />
 </p>

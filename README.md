@@ -107,5 +107,10 @@ Em breve, mais informações...
 |
 ### Olá, eu sou o Luis! 👋
 
-[![GitHub Contributions](https://ghchart.rshah.org/luiscyriaco)](https://github.com/luiscyriaco)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luiscyriaco&show_icons=true&theme=tokyonight&hide=prs&include_all_commits=true&count_private=true" alt="Estatísticas Numéricas de Luis" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiscyriaco&theme=tokyonight&layout=donut-vertical&langs_count=6" alt="Gráfico de Linguagens" />
+</p>

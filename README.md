@@ -109,15 +109,15 @@ Em breve, mais informações...
 
 <p align="center">
   <a href="https://instagram.com/beontechnology_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-689-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://facebook.com/luisricardo.cristoffolicyriaco">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/FACEBOOK-1.195-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://github.com/luiscyriaco?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositórios-16-success?style=for-the-badge&logo=git&logoColor=white" alt="Repositórios"/>
+    <img src="https://img.shields.io/badge/REPOSITÓRIOS-16-success?style=for-the-badge&logo=git&logoColor=white" alt="Repositórios"/>
   </a>
   <a href="https://github.com/luiscyriaco">
-    <img src="https://img.shields.io/badge/GitHub-Perfil_Ativo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-PERFIL_ATIVO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>

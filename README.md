@@ -105,7 +105,7 @@ Em breve, mais informações...
 | Estatísticas | Linguagens Mais Usadas |
 |--------------|-------------------------|
 |
+### Olá, eu sou o Luis! 👋
 
-
-[![Metrics](https://metrics.lecoq.io/luiscyriaco?template=classic&base=activity,community,repositories,metadata&plugins_errors_fatal=false)](https://github.com/luiscyriaco)
+[![GitHub Contributions](https://ghchart.rshah.org/luiscyriaco)](https://github.com/luiscyriaco)
 

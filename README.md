@@ -105,6 +105,8 @@ Em breve, mais informações...
 | Estatísticas | Linguagens Mais Usadas |
 |--------------|-------------------------|
 |
+
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luiscyriaco&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscyriaco&theme=tokyonight&layout=compact&langs_count=8&locale=pt-br)

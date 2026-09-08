@@ -13,37 +13,24 @@ Também atuo como instrutor na 1ª Fábrica de Programadores do Brasil, em Santa
 Sou proprietário da BeOn Technology, empresa que presta serviços de infraestrutura de TI na região Oeste de São Paulo.
 Em breve, mais informações...
 
-<p align="left">
-  <a href="https://www.instagram.com/beontechnology_/">
-    <img 
-      alt="Instagram" 
-      title="Siga no Instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/Instagram-689%20-%23F06292?logo=instagram&logoColor=white&style=for-the-badge&labelColor=E1306C"
-    />
+  
+<p align="center">
+  <a href="https://instagram.com/beontechnology_">
+    <img src="https://img.shields.io/badge/INSTAGRAM-727-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.facebook.com/luisricardo.cristoffolicyriaco/">
-    <img 
-      alt="Facebook" 
-      title="Siga no Facebook" 
-      src="https://custom-icon-badges.demolab.com/badge/Facebook-1.195%20-%23236ad3?logo=facebook&logoColor=white&style=for-the-badge&labelColor=4267B2"
-    />
+  <a href="https://facebook.com/luisricardo.cristoffolicyriaco">
+    <img src="https://img.shields.io/badge/FACEBOOK-1.195-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://wa.me/5511937533392" target="_blank">
-    <img 
-      alt="WhatsApp" 
-      title="Fale conosco no WhatsApp" 
-      src="https://custom-icon-badges.demolab.com/badge/WhatsApp-Contato-%2315A292?logo=whatsapp&logoColor=white&style=for-the-badge&labelColor=128C7E"
-    />
+  <a href="https://wa.me/5511937533392">
+    <img src="https://img.shields.io/badge/WHATSAPP-CONTATO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.linkedin.com/in/luis-ricardo-cristoffoli-cyriaco/" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="Conecte-se comigo no LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conecte--se-%231685F3?logo=linkedin-brands-solid-full&logoColor=white&style=for-the-badge&labelColor=0A66C2"
-    />
+  <a href="https://github.com/luiscyriaco?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITÓRIOS-16-success?style=for-the-badge&logo=git&logoColor=white" alt="Repositórios"/>
+  </a>
+  <a href="https://github.com/luiscyriaco">
+    <img src="https://img.shields.io/badge/GITHUB-PERFIL_ATIVO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -105,19 +92,4 @@ Em breve, mais informações...
 | Estatísticas | Linguagens Mais Usadas |
 |--------------|-------------------------|
 |
-### Olá, eu sou o Luis! 👋
 
-<p align="center">
-  <a href="https://instagram.com/beontechnology_">
-    <img src="https://img.shields.io/badge/INSTAGRAM-689-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://facebook.com/luisricardo.cristoffolicyriaco">
-    <img src="https://img.shields.io/badge/FACEBOOK-1.195-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://github.com/luiscyriaco?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITÓRIOS-16-success?style=for-the-badge&logo=git&logoColor=white" alt="Repositórios"/>
-  </a>
-  <a href="https://github.com/luiscyriaco">
-    <img src="https://img.shields.io/badge/GITHUB-PERFIL_ATIVO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
